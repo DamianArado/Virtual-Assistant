@@ -3,6 +3,6 @@ My virtual assistant will able to do the followings things : Weather forecasting
 
 ## To run locally
 1.` git clone https://github.com/DamianArado/Virtual-Assistant.git`  
-  
+
 2. Run `pip install requirements.txt`
 
